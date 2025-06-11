@@ -1,6 +1,6 @@
 # group1_implicit_app
 
-A new Flutter project.
+A new Flutter project for implicit widget for inclass activity.
 
 ## Getting Started
 
